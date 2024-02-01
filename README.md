@@ -1,9 +1,9 @@
 
 # CS2社区服务器配置
 
-> 此教程使用的系统为[Archlinux](https://archlinux.org/)
+> 此教程使用的操作系统为[Archlinux](https://archlinux.org/)
 
-> 由于[Valve](https://www.valvesoftware.com/)并没有推出官方的[CS2](https://store.steampowered.com/app/730/CounterStrike_2/)的社区服务器，且没有在CS2可用的[Get5](https://github.com/splewis/get5)与[Sourcemod](https://www.sourcemod.net/)可用，所以这个方案随时可能过时。
+> 由于[Valve](https://www.valvesoftware.com/)并没有推出官方的[CS2](https://store.steampowered.com/app/730/CounterStrike_2/)的社区服务器，且没有在CS2可用的[Get5](https://github.com/splewis/get5)与[Sourcemod](https://www.sourcemod.net/)，所以这个方案随时可能过时。
 > 替代Get5的方案是使用[MatchZy](https://github.com/shobhit-pathak/MatchZy)，还有很多不完善的地方，所以说还是等~~Vacation~~Valve的社区服务器吧。
 
 ---
